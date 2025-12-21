@@ -72,42 +72,45 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
   </tr>
   <tr>
     <th>2 Per&shy;sonen</th>
+    <td>€ 78,-</td>
     <td>€ 75,-</td>
-    <td>€ 72,-</td>
+    <td>€ 83,-</td>
     <td>€ 80,-</td>
-    <td>€ 77,-</td>
   </tr>
   <tr>
     <th>3 Per&shy;sonen</th>
+    <td>€ 83,-</td>
     <td>€ 80,-</td>
-    <td>€ 77,-</td>
+    <td>€ 94,-</td>
     <td>€ 91,-</td>
-    <td>€ 88,-</td>
   </tr>
   <tr>
     <th>4 Per&shy;sonen</th>
-    <td>€ 91,-</td>
-    <td>€ 88,-</td>
-    <td>€ 101,-</td>
-    <td>€ 98,-</td>
+    <td>€ 95,-</td>
+    <td>€ 92,-</td>
+    <td>€ 105,-</td>
+    <td>€ 102,-</td>
   </tr>
   <tr>
     <th>5 Per&shy;sonen</th>
-    <td>€ 96,-</td>
-    <td>€ 93,-</td>
-    <td>€ 107,-</td>
-    <td>€ 104,-</td>
+    <td>€ 100,-</td>
+    <td>€ 97,-</td>
+    <td>€ 111,-</td>
+    <td>€ 108,-</td>
   </tr>
   <tr>
     <th>6 Per&shy;sonen</th>
-    <td>€ 102,-</td>
-    <td>€ 99,-</td>
-    <td>€ 112,-</td>
-    <td>€ 109,-</td>
+    <td>€ 107,-</td>
+    <td>€ 104,-</td>
+    <td>€ 117,-</td>
+    <td>€ 114,-</td>
   </tr>
 </table>
 
 <p>
   Preise inkl. Strom, Heizung, WLAN und Bettwäsche, excl. Endreinigung €80,-.
-  <br>Preise exkl. Ortstaxe ab 15 Jahren € 2,-. Mindestbuchungsdauer 1 Woche.
+  <br>
+  Preise exkl. Ortstaxe ab 15 Jahren € 2,50 pro Tag.
+  <br>
+  Mindestbuchungsdauer: 5 Tage; Juli / August: 7 Tage. 
 </p>
