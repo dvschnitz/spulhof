@@ -65,7 +65,7 @@ sitemap:
       <div class="3u$ 12u$(xsmall)">
 				<input type="text" name="Ort" value="" placeholder="Ort" />
 			</div>
-      <h3 class="12u$" style="margin-block-end: 0;">Ankunft - Mindestens 6 Nächte</h3>
+      <h3 class="12u$" style="margin-block-end: 0;">Ankunft - Mindestens 5 Tage, Juli und August 7 Tage</h3>
       <div class="3u 12u$(xsmall)">
 				<input type="text" name="Tag Ankunft" value="" placeholder="Tag der Ankunft*" required />
 		</div>

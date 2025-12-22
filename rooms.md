@@ -65,9 +65,9 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
   </tr>
   <tr>
     <th></th>
-    <th>Haupt&shy;sasion</th>
+    <th>Haupt&shy;saison</th>
     <th>Neben&shy;saison</th>
-    <th>Haupt&shy;sasion</th>
+    <th>Haupt&shy;saison</th>
     <th>Neben&shy;saison</th>
   </tr>
   <tr>
@@ -112,5 +112,7 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
   <br>
   Preise exkl. Ortstaxe ab 15 Jahren € 2,50 pro Tag.
   <br>
-  Mindestbuchungsdauer: 5 Tage; Juli / August: 7 Tage. 
+  Mindestbuchungsdauer: 5 Tage
+  <br>
+  Juli / August: 7 Tage
 </p>
