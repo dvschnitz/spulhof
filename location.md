@@ -22,7 +22,7 @@ sitemap:
 
 Nur etwa 50 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in absolut ruhiger Lage am idyllischen Radochsberg in [Abtenau](https://www.abtenau.at/). In unmittelbarer Nähe gibt es zahlreiche Möglichkeiten zum Wandern, Langlaufen, Radfahren, Skifahren, Rodeln oder Schwimmen. Nur 25 Kilometer mit dem Auto entfernt liegt Halstatt und weitere Perlen im Salzkammergut.
 
-* Nur 5km zum Schiegebiet [Dachstein West](https://www.dachstein.at/)
+* Nur 5km zum Skigebiet [Dachstein West](https://www.dachstein.at/)
 * Eine [Langlaufloipe](https://www.bergfex.at/salzburg/langlaufen/abtenau/loipen/260/) führt am Haus vorbei
 * Rodeln im Sommer wie im Winter am nur 8km entfernten [Karkogel](https://karkogel.abtenau-info.at/)
 * Mountainbiketouren und Wanderungen können direkt von der Unterkunft aus gestartet werden
